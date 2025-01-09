@@ -60,7 +60,7 @@
     "semver": "5.4.1",
     "shelljs": "0.7.8",
     "tabtab": "3.0.2",
-    "yeoman-environment": "3.0.0",
+    "yeoman-environment": "4.0.0",
     "yeoman-generator": "6.0.0"
   },
   "devDependencies": {
