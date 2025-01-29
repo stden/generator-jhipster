@@ -49,7 +49,7 @@
     "ejs": "2.5.7",
     "glob": "7.1.2",
     "html-wiring": "1.2.0",
-    "insight": "0.8.4",
+    "insight": "0.12.0",
     "jhipster-core": "1.3.5",
     "js-yaml": "3.9.1",
     "lodash": "4.17.4",
