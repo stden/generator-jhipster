@@ -58,10 +58,10 @@
     "pluralize": "6.0.0",
     "randexp": "0.4.6",
     "semver": "5.4.1",
-    "shelljs": "0.7.8",
+    "shelljs": "0.9.0",
     "tabtab": "3.0.2",
     "yeoman-environment": "4.0.0",
-    "yeoman-generator": "6.0.0"
+    "yeoman-generator": "7.5.0"
   },
   "devDependencies": {
     "chai": "4.1.1",
